@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I have recently took my bachelor's degree and I am in process of carreer transition
-- 🌱 I’m currently learning Dynammic Systems and Machine Learning applied to Medical Imaging
+- 🌱 I’m currently learning Dynamic Systems and Machine Learning applied to Medical Imaging
 - ⚡ Linear Algebra, Control Theory and Literature
 
 ## Tools and technologies
